@@ -8,3 +8,6 @@
 - `pnpm config get registry` 查看源
 - `pnpm config set registry <XXX>` 切换源
 - `pnpm dlx` 从源中获取包而不将其安装为依赖项，热加载，并运行
+
+# 查看本机公网 IP
+- `curl ipinfo.io`
